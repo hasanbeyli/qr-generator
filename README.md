@@ -1,3 +1,5 @@
-# It is qr-generator commandLine app
-# qr-generator
+# qr-generator (It is qr-generator commandLine app)
+
+# 
+
 
